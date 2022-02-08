@@ -1,4 +1,4 @@
-# Python-Homework
+# Python script allowing records analysis 
 Python script for analyzing the financial records of your company.
 
 This Python script analyzes records to calculate each of the following:
